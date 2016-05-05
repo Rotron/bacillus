@@ -1,0 +1,26 @@
+* 0.0.4 / 2016-05-03
+	- added license note, and this changelog.txt
+	- added generic chat message
+	- bigger map size, removed virus (object) (completely)
+
+
+* 0.0.3 / 2016-05-03
+	- updating config.json value to more unstable values.
+	
+* 0.0.2 / 2016-05-03
+	- added some reference for index.html
+
+	
+* 0.0.1 / 2016-05-03
+	- built the codebase
+	
+====
+TODO
+
+
+v0.0.5
+Record failed attempts to login as admin
+Enable link(html) parsing in chat box.
+	
+	
+	
