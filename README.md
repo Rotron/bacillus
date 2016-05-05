@@ -1,4 +1,6 @@
 ### bacillus    [![Build Status](https://travis-ci.org/dvrein/bacillus.svg?branch=devel)](https://travis-ci.org/dvrein/bacillus)
+
+[![Join the chat at https://gitter.im/dvrein/bacillus](https://badges.gitter.im/dvrein/bacillus.svg)](https://gitter.im/dvrein/bacillus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * A simple blob based game (multiplayer)
 
 #### Contributors
